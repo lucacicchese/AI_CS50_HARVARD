@@ -18,5 +18,4 @@ if __name__ == '__main__':
 
     print(new_board)
     print(tic.winner(new_board))
-
-
+    0. Search / prjct0 / TicTacToe
